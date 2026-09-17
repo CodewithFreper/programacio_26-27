@@ -16,7 +16,6 @@ public class Salutacio {
         int edatAnyQueVe = edat + 1;
 
         System.out.println("Hola, " + nom + "!");
-        System.out.println("L'any que ve tindràs "
-                + edatAnyQueVe + " anys.");
+        System.out.println("L'any que ve tindràs " + edatAnyQueVe + " anys.");
     }
 }
