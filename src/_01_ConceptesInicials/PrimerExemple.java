@@ -1,4 +1,4 @@
-package _00_ConceptesInicials;
+package _01_ConceptesInicials;
 
 public class PrimerExemple {
     public static void main(String[] args) {
